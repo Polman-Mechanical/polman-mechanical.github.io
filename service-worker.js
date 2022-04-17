@@ -1,5 +1,5 @@
 const build = [
-  "/_app/start-9dc4d4d8.js",
+  "/_app/start-a5f297bf.js",
   "/_app/pages/__layout.svelte-0a81db2d.js",
   "/_app/assets/pages/__layout.svelte-47dfe6b3.css",
   "/_app/error.svelte-52891c42.js",
@@ -36,7 +36,7 @@ const prerendered = [
   "/frame",
   "/quotes"
 ];
-const version = "1650156729075";
+const version = "1650159330501";
 const CACHE_NAME = `v${version}_cache`;
 const sw = self;
 const ignoreFiles = [
