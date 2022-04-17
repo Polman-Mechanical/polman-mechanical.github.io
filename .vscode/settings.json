@@ -1,0 +1,10 @@
+{
+  "filewatcher.commands": [
+    {
+      "cmd": "cd ${workspaceRoot} && yarn build",
+      "event": "onFileChange",
+      "isAsync": false,
+      "match": "(?:src|static)\\.*",
+    },
+  ],
+}
