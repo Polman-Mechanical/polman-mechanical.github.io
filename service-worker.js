@@ -1,5 +1,5 @@
 const build = [
-  "/_app/start-a5f297bf.js",
+  "/_app/start-a7bc5dbf.js",
   "/_app/pages/__layout.svelte-0a81db2d.js",
   "/_app/assets/pages/__layout.svelte-47dfe6b3.css",
   "/_app/error.svelte-52891c42.js",
@@ -8,7 +8,7 @@ const build = [
   "/_app/assets/pages/frame/index@blank.svelte-06d30f89.css",
   "/_app/pages/index.svelte-f3414de4.js",
   "/_app/assets/pages/index.svelte-b4cff391.css",
-  "/_app/pages/quotes/index.svelte-39d14799.js",
+  "/_app/pages/quotes/index.svelte-efeba69b.js",
   "/_app/assets/pages/quotes/index.svelte-ee8379ee.css",
   "/_app/chunks/index-d5e11089.js",
   "/_app/chunks/dayjs-0a903476.js",
@@ -36,7 +36,7 @@ const prerendered = [
   "/frame",
   "/quotes"
 ];
-const version = "1650159330501";
+const version = "1652320187438";
 const CACHE_NAME = `v${version}_cache`;
 const sw = self;
 const ignoreFiles = [
