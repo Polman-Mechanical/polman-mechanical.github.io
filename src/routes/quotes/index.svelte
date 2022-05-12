@@ -105,7 +105,7 @@
       <Label for="model_price">Model Price</Label>
       <InputGroup>
         <InputGroupText>$</InputGroupText>
-        <Input type="number" id="model_price" bind:value={priceValue} min={0} />
+        <Input type="number" id="model_price" bind:value={priceValue} min={0} step="0.01" />
       </InputGroup>
     </FormGroup>
     <FormGroup>
