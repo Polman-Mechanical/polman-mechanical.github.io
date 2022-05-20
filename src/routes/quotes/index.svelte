@@ -60,8 +60,8 @@
         description: descValue,
         warranty: warrantyValue,
         subtotal: price,
-        gst: gst,
-        pst: pst,
+        gst,
+        pst,
         totalPrice: totalPrice,
       },
     });
@@ -129,7 +129,7 @@
       </div>
       <div>
         <strong>PST</strong>
-        <span>{formatMoney(gst)}</span>
+        <span>{formatMoney(pst)}</span>
       </div>
       <div>
         <strong>Total Tax</strong>
